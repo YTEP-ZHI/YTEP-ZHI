@@ -3,7 +3,7 @@
 ### About Me
 I am Jiazhi Yang (杨佳智).
 
-I am a first-year Ph.D. student at [MMLab](https://mmlab.ie.cuhk.edu.hk/) of CUHK, advised by [Prof. Xiangyu Yue](https://xyue.io/). Meanwhile I am a research intern at [OpenDriveLab](https://opendrivelab.com/), advised by [Proj. Hongyang Li](https://lihongyang.info/).
+I am a first-year Ph.D. student at [MMLab](https://mmlab.ie.cuhk.edu.hk/) of CUHK, advised by [Prof. Xiangyu Yue](https://xyue.io/). Meanwhile I am a research intern at [OpenDriveLab](https://opendrivelab.com/), advised by [Prof. Hongyang Li](https://lihongyang.info/).
 
 🤖 I am deeply interested in developing **autonomous policies** for driverless vehicles and robots.
 
