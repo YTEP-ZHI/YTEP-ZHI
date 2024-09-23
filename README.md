@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Good to see you !
 
 ### About Me
 I am Jiazhi Yang (杨佳智), [Google Scholar](https://scholar.google.com/citations?user=Ju7nGX8AAAAJ&hl=zh-CN).
