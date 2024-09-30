@@ -23,6 +23,7 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=Ju7nGX8AAA
 - Supplementary: [Intro. video](https://www.youtube.com/watch?v=a4H6Jj-7IC0) | [Slides](https://opendrivelab.github.io/content/GenAD_slides_with_vista.pdf) | [Poster](https://github.com/OpenDriveLab/DriveAGI/blob/main/assets/cvpr24_genad_poster.png)
 
 🌎 **Vista**: A Generalizable Driving World Model with High Fidelity and Versatile Controllability
+- NeurIPS 2024
 - **The world's first** generalizable driving world model capable of simulating open scenarios with multi-modal control.
 - [arXiv](https://arxiv.org/abs/2405.17398) | [Code and model](https://github.com/OpenDriveLab/Vista)
 
