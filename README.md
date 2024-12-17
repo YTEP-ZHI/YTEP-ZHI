@@ -1,6 +1,6 @@
-## A Breif Self-Introduction
+## Jiazhi Yang
 
-### Jiazhi Yang
+### About Myself
 
 A first-year Ph.D. student at [MMLab](https://mmlab.ie.cuhk.edu.hk/) of [CUHK](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Xiangyu Yue](https://xyue.io/), meanwhile a research intern at [OpenDriveLab](https://opendrivelab.com/), advised by [Prof. Hongyang Li](https://lihongyang.info/).
 
