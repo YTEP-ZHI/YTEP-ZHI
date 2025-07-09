@@ -4,7 +4,6 @@
 
 A first-year Ph.D. student at [MMLab](https://mmlab.ie.cuhk.edu.hk/) of [CUHK](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Xiangyu Yue](https://xyue.io/), meanwhile a research intern at [OpenDriveLab](https://opendrivelab.com/), advised by [Prof. Hongyang Li](https://lihongyang.info/).
 
-🤖 Deeply interested in developing **autonomous policies** for driverless vehicles and robots.
 
 ### Selected Research
 See more: [Google Scholar](https://scholar.google.com/citations?user=Ju7nGX8AAAAJ&hl=zh-CN)
