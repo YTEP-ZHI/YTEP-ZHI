@@ -35,5 +35,5 @@ See more: [Google Scholar](https://scholar.google.com/citations?user=Ju7nGX8AAAA
 - Email: jzyang@link.cuhk.edu.hk
 - Twitter: https://x.com/jiazhi_yang2024
 - LinkedIn: https://www.linkedin.com/in/jiazhi-yang-a07805208/
-- WeChat: thisisshawnyang [💬 breakdown: this is shawn yang]
+- WeChat: lingzhilyong
 
