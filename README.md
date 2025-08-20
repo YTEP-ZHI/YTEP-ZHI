@@ -2,7 +2,9 @@
 
 ### About Myself
 
-A first-year Ph.D. student at CUHK MMLab, advised by [Prof. Xiangyu Yue](https://xyue.io/), meanwhile a research intern at [OpenDriveLab](https://opendrivelab.com/), advised by [Prof. Hongyang Li](https://lihongyang.info/).
+A first-year Ph.D. student at CUHK MMLab, advised by [Prof. Xiangyu Yue](https://xyue.io/), meanwhile a research intern at [OpenDriveLab](https://opendrivelab.com/), advised by [Prof. Hongyang Li](https://lihongyang.info/). Please find my resumé [here](https://github.com/YTEP-ZHI/YTEP-ZHI/blob/main/Jiazhi_Yang_CV.pdf).
+
+🤗 Open to research collaborations. Feel free to reach me via [Contact](#contact).
 
 
 ### Selected Research
@@ -32,7 +34,6 @@ See more: [Google Scholar](https://scholar.google.com/citations?user=Ju7nGX8AAAA
 - Supplementary: [Poster](https://github.com/OpenDriveLab/Vista/blob/main/assets/nips24_vista_poster.png)
 
 ### Contact
-🤗 Open to research collaborations. Feel free to contact me via:
 
 - Email: jzyang@link.cuhk.edu.hk
 - Twitter: https://x.com/jiazhi_yang2024
