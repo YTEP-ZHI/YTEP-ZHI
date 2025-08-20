@@ -32,6 +32,8 @@ See more: [Google Scholar](https://scholar.google.com/citations?user=Ju7nGX8AAAA
 - Supplementary: [Poster](https://github.com/OpenDriveLab/Vista/blob/main/assets/nips24_vista_poster.png)
 
 ### Contact
+🤗 Open to research collaborations. Feel free to contact me via:
+
 - Email: jzyang@link.cuhk.edu.hk
 - Twitter: https://x.com/jiazhi_yang2024
 - LinkedIn: https://www.linkedin.com/in/jiazhi-yang-a07805208/
