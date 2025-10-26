@@ -2,7 +2,7 @@
 
 ### About Myself
 
-A first-year Ph.D. student at CUHK MMLab, advised by [Prof. Xiangyu Yue](https://xyue.io/), meanwhile a research intern at [OpenDriveLab](https://opendrivelab.com/), advised by [Prof. Hongyang Li](https://lihongyang.info/). Please find my resumé [here](https://github.com/YTEP-ZHI/YTEP-ZHI/blob/main/Jiazhi_Yang_CV.pdf).
+A second-year Ph.D. student at CUHK MMLab, advised by [Prof. Xiangyu Yue](https://xyue.io/), meanwhile a research intern at [OpenDriveLab](https://opendrivelab.com/), advised by [Prof. Hongyang Li](https://lihongyang.info/). Please find my resumé [here](https://github.com/YTEP-ZHI/YTEP-ZHI/blob/main/Jiazhi_Yang_CV.pdf).
 
 🤗 Open to research collaborations on world models, robot learning, etc. Feel free to reach me via [contact](#contact).
 
